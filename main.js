@@ -1,9 +1,9 @@
 /**
  * Created by yannick on 10/03/2015.
  */
-var http = require('http');
-var url = require('url');
-var gpio = require('pi-gpio');
+//var http = require('http');
+//var url = require('url');
+//var gpio = require('pi-gpio');
 
 var SimpleImap = require('simple-imap');
 
